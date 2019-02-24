@@ -3,7 +3,7 @@ import './Maps.css';
 import ReactMapGL, {Marker} from 'react-map-gl';
 
 
-const TOKEN = 'pk.eyJ1IjoidHlsZXJwYXR0b240NCIsImEiOiJjanNmN3Y1cmUwenY4NDN0MG1xdWRyMmh5In0.EaCbBLrw7cZ2XVG03sM9Zw';
+const TOKEN = 'APIKEY';
 const mapStyle = {
   display: 'block',
   margin: '0 auto'
